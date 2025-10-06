@@ -15,11 +15,11 @@ Language
 -   Change to `USB Connect Settings` to `Mass Storage`
     -   ![Image](https://github.com/user-attachments/assets/07e50eca-a90a-475f-899c-325a2ba94ea7)
 -   Connect the camera to your computer
-    > [!Warning]
-    > If you encounter issues connecting with your PC, where the camera shows connecting, but the computer doesn't detect new connected device at all
-    > ![Image](https://github.com/user-attachments/assets/0bbaea00-c571-485d-a7cd-c2a04a33c6a4)
-    > The cause can be the Micro USB is not a data cable and only charges power.
-    > or you can use this [reddit post](https://www.reddit.com/r/sony/comments/l0bw55/camera_stuck_on_connecting_when_using_imaging/) to debug.
+> [!WARNING]  
+> If you encounter issues connecting with your PC, where the camera shows connecting, but the computer doesn't detect new connected device at all
+> ![Image](https://github.com/user-attachments/assets/0bbaea00-c571-485d-a7cd-c2a04a33c6a4)
+> The cause can be the Micro USB is not a data cable and only charges power.
+> or you can use this [reddit post](https://www.reddit.com/r/sony/comments/l0bw55/camera_stuck_on_connecting_when_using_imaging/) to debug.
 
 ### Software
 
@@ -34,10 +34,10 @@ Language
 -   Next, Open pmca-gui-v0.18-14. Go to Tweaks and Click Start tweaking (service mode)
     -   **First**, Click on Unlock protected settings Protection Disabled
     -   ![Image](https://github.com/user-attachments/assets/7712680a-2693-45a7-aafe-b859dfe07cf7)
-        > [!WARNING]
-        > There may be a bug where it will disconnect your camera when you Start tweaking
-        > Go back to Zadig and install the driver again. if you do not find your device, it could be named `Sony HD Camera`
-        > Next, Try again
+> [!WARNING]  
+> There may be a bug where it will disconnect your camera when you Start tweaking
+> Go back to Zadig and install the driver again. if you do not find your device, it could be named `Sony HD Camera`
+> Next, Try again
 
 ---
 
