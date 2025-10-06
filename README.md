@@ -15,7 +15,7 @@ Language
 -   Change to `USB Connect Settings` to `Mass Storage`
     -   ![Image](https://github.com/user-attachments/assets/07e50eca-a90a-475f-899c-325a2ba94ea7)
 -   Connect the camera to your computer
-    > [!WARNING]
+    > [!Warning]
     > If you encounter issues connecting with your PC, where the camera shows connecting, but the computer doesn't detect new connected device at all
     > ![Image](https://github.com/user-attachments/assets/0bbaea00-c571-485d-a7cd-c2a04a33c6a4)
     > The cause can be the Micro USB is not a data cable and only charges power.
